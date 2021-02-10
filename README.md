@@ -2,6 +2,9 @@
 I recently came across PyCaret library. And immedietly wanted to try several things and explore it.
 Here is a small effort to understand and use PyCaret.
 
+# What is PyCaret?
+[PyCaret](https://pycaret.org/) is an open source low-code machine learning library in Python that aims to reduce the hypothesis to insights cycle time in a ML experiment. It enables data scientists to perform end-to-end experiments quickly and efficiently. In comparison with the other open source machine learning libraries, PyCaret is an alternate low-code library that can be used to perform complex machine learning tasks with only few lines of code. PyCaret is simple and easy to use. All the operations performed in PyCaret are automatically stored in a custom Pipeline that is fully orchestrated for deployment. PyCaret is essentially a Python wrapper around several machine learning libraries and frameworks such as scikit-learn, XGBoost, Microsoft LightGBM, spaCy and many more. 
+
 **Note: This repository will be updated periodically.**
 
 ## Notebooks: 
